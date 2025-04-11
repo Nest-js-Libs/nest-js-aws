@@ -4,8 +4,8 @@ import { AwsModule } from './lib/aws.module';
 
 export const swaggerConfig = app => {
   const options = new DocumentBuilder()
-    .setTitle('CACHE STRATEGIES')
-    .setDescription('The CACHE STRATEGIES API description')
+    .setTitle('AWS')
+    .setDescription('The AWS API description')
     .setVersion('1.0')
     .build();
   const document = SwaggerModule.createDocument(app, options);
