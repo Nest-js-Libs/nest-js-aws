@@ -1,5 +1,11 @@
 # Módulo AWS para NestJS
 
+# @nest-js/aws
+
+[![npm version](https://img.shields.io/npm/v/@nest-js/aws.svg)](https://www.npmjs.com/package/@nest-js/aws)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Este módulo proporciona una integración sencilla con varios servicios de AWS para aplicaciones NestJS.
 
 ## Instalación
